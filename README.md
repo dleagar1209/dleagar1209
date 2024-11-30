@@ -40,12 +40,6 @@ Hi! I'm a **Higher Education student** passionate about programming, both **back
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dleagar1209&theme=radical" alt="GitHub Streak Stats" />
-</p>
-
----
-
 ## 📈 Contribution Graph
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dleagar1209&theme=react-dark&hide_border=true" alt="GitHub Contribution Graph" />
 
