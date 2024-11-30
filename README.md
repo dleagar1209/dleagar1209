@@ -36,12 +36,15 @@ Hi! I'm a **Higher Education student** passionate about programming, both **back
 ---
 
 ## 📊 GitHub Statistics
-  ![Streak de GitHub](https://streak-stats.demolab.com/?user=Acasgom1508&theme=radical)
+ <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dleagar1209&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dleagar1209&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
 ## 📈 Contribution Graph
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark&hide_border=true" alt="GitHub Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dleagar1209&theme=react-dark&hide_border=true" alt="GitHub Contribution Graph" />
 
 ---
 
