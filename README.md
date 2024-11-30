@@ -46,4 +46,10 @@ Hi! I'm a **Higher Education student** passionate about programming, both **back
 
 ---
 
+<a href="https://www.linkedin.com/in/diego-leal-garcía-5a0316333/" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
+</a>
+
+---
+
 Thanks for stopping by! Feel free to connect with me and explore my projects. 💻✨
