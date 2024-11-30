@@ -43,9 +43,7 @@ Hi! I'm a **Higher Education student** passionate about programming, both **back
 ---
 
 ## 📈 Contribution Graph
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark&hide_border=true" alt="GitHub Contribution Graph" />
-</p>
 
 ---
 
