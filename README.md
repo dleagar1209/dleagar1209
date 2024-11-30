@@ -45,11 +45,11 @@ Hi! I'm a **Higher Education student** passionate about programming, both **back
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dleagar1209&theme=react-dark&hide_border=true" alt="GitHub Contribution Graph" />
 
 ---
-
-<a href="https://www.linkedin.com/in/diego-leal-garcía-5a0316333/" target="_blank" aling="center">
-  <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
-</a>
-
+<div align="center">
+  <a href="https://www.linkedin.com/in/diego-leal-garcía-5a0316333/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
+  </a>
+</div>
 ---
 
 Thanks for stopping by! Feel free to connect with me and explore my projects. 💻✨
