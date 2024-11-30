@@ -36,9 +36,7 @@ Hi! I'm a **Higher Education student** passionate about programming, both **back
 ---
 
 ## 📊 GitHub Statistics
-<p align="center">
   ![Streak de GitHub](https://streak-stats.demolab.com/?user=Acasgom1508&theme=radical)
-</p>
 
 ---
 
