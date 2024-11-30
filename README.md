@@ -18,10 +18,10 @@ Hi! I'm a **Higher Education student** passionate about programming, both **back
   <img src="https://img.icons8.com/office/48/000000/react.png" alt="React Native" />
   <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter" />
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML" />
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" />
 </p>
 
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" />
   <img src="https://img.icons8.com/color/48/000000/android-os.png" alt="Android" />
   <img src="https://img.icons8.com/officel/48/000000/php-logo.png" alt="PHP" />
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
