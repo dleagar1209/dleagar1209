@@ -1,9 +1,5 @@
 # Welcome to My GitHub Profile! 👋
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="300">
-</p>
----
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=dleagar1209&label=Profile+Views&color=blue&style=plastic" alt="Profile Views" />
 </p>
 
@@ -40,6 +36,12 @@ Hi! I'm a **Higher Education student** passionate about programming, both **back
  <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dleagar1209&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=dleagar1209&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak Stats" />
 </p>
 
 ---
