@@ -4,9 +4,9 @@
 </p>
 
 ## About Me
-<p width="100">
+<div width="100">
   Hi! I'm a **Higher Education student** passionate about programming, both **backend** and **frontend** development. I'm creative, curious, and always eager to learn new technologies. 🚀
-</p>
+</div>
 
 ---
 
