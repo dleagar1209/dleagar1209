@@ -4,8 +4,8 @@
 </p>
 
 ## About Me
-<div width="100">
-  Hi! I'm a **Higher Education student** passionate about programming, both **backend** and **frontend** development. I'm creative, curious, and always eager to learn new technologies. 🚀
+<div align="center">
+  Hi! I'm a **Higher Education student** passionate about programming, both **backend** and **frontend** development. <br> I'm creative, curious, and always eager to learn new technologies. 🚀
 </div>
 
 ---
