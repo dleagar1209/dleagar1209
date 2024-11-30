@@ -55,8 +55,10 @@ Hi! I'm a **Higher Education student** passionate about programming, both **back
 ---
 
 <div align="center">
+  
   ![GitHub followers](https://img.shields.io/github/followers/dleagar1209?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/dleagar1209?style=social)
+
 </div>
 
 ---
