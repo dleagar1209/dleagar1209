@@ -37,8 +37,7 @@ Hi! I'm a **Higher Education student** passionate about programming, both **back
 
 ## 📊 GitHub Statistics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages" />
+  ![Streak de GitHub](https://streak-stats.demolab.com/?user=Acasgom1508&theme=radical)
 </p>
 
 ---
