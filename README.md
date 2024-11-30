@@ -11,19 +11,19 @@ Hi! I'm a **Higher Education student** passionate about programming, both **back
 
 ## 🛠️ Skills and Technologies
 
-<p align="left">
+<p align="center">
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java" />
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" />
   <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" />
   <img src="https://img.icons8.com/office/48/000000/react.png" alt="React Native" />
   <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter" />
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML" />
+</p>
+
+<p align="center">
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" />
   <img src="https://img.icons8.com/color/48/000000/android-os.png" alt="Android" />
   <img src="https://img.icons8.com/officel/48/000000/php-logo.png" alt="PHP" />
-</p>
-
-<p align="left">
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
   <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub" />
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code" />
