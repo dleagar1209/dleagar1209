@@ -5,7 +5,7 @@
 
 ## About Me
 <div align="center">
-  Hi! I'm a **Higher Education student** passionate about programming, <br> both **backend** and **frontend** development. I'm creative, curious, and always eager to learn new technologies. 🚀
+  Hi! I'm a **Higher Education student** passionate about programming, <br> both **backend** and **frontend** development. I'm creative, curious, <br> and always eager to learn new technologies. 🚀
 </div>
 
 ---
