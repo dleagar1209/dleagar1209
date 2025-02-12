@@ -22,6 +22,7 @@
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" />
   <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" />
   <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" />
+  <img src="https://img.icons8.com/color/48/000000/android-studio--v2.png" alt="Android Studio" />
 </p>
 
 <p align="center">
@@ -34,6 +35,8 @@
   <img src="https://img.icons8.com/color/48/000000/oracle-logo.png" alt="Oracle" />
   <img src="https://img.icons8.com/ios-filled/50/000000/unity.png" alt="Unity" />
   <img src="https://img.icons8.com/color/48/000000/dart.png" alt="Dart" />
+  <img src="https://img.icons8.com/color/48/000000/linux--v1.png" alt="Linux" />
+
 </p>
 
 ---
