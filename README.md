@@ -16,27 +16,26 @@
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java" />
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" />
   <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" />
+  <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub" />
   <img src="https://img.icons8.com/office/48/000000/react.png" alt="React Native" />
-  <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter" />
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML" />
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" />
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" />
   <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" />
-  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" />
+  <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter" />
   <img src="https://img.icons8.com/color/48/000000/android-studio--v2.png" alt="Android Studio" />
 </p>
 
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/android-os.png" alt="Android" />
+  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" />
+  <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" />
   <img src="https://img.icons8.com/officel/48/000000/php-logo.png" alt="PHP" />
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
-  <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub" />
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code" />
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" />
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" />
   <img src="https://img.icons8.com/color/48/000000/oracle-logo.png" alt="Oracle" />
   <img src="https://img.icons8.com/ios-filled/50/000000/unity.png" alt="Unity" />
   <img src="https://img.icons8.com/color/48/000000/dart.png" alt="Dart" />
   <img src="https://img.icons8.com/color/48/000000/linux--v1.png" alt="Linux" />
-
 </p>
 
 ---
