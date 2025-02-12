@@ -20,6 +20,8 @@
   <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter" />
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML" />
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" />
+  <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" />
+  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" />
 </p>
 
 <p align="center">
@@ -30,6 +32,8 @@
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code" />
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" />
   <img src="https://img.icons8.com/color/48/000000/oracle-logo.png" alt="Oracle" />
+  <img src="https://img.icons8.com/ios-filled/50/000000/unity.png" alt="Unity" />
+  <img src="https://img.icons8.com/color/48/000000/dart.png" alt="Dart" />
 </p>
 
 ---
